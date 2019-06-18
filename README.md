@@ -5,7 +5,7 @@ The project was created on June 18th, 2019.
 First Udacity GitHub project.
 
 ### Description
-The project is about keeping my python project from Udacity into GitHub.
+The project is about keeping my python project from Udacity into GitHub. This project is meant to be helpful in providing a clear view of different steps regarding git.
 
 ### Files used
 The files used are README.md and bikeshare.py
