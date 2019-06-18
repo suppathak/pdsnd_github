@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+The project was created on June 18th, 2019.
 
 ### Project Title
-Replace the Project Title
+First Udacity GitHub project.
 
 ### Description
-Describe what your project is about and what it does
+The project is about keeping my python project from Udacity into GitHub.
 
 ### Files used
-Include the files used
+The files used are README.md and bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+The repository was forkey from https://github.com/suppathak/pdsnd_github.git.
