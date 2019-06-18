@@ -266,7 +266,7 @@ def birth_years(df):
         print('No available birth date data for this filter.')
 
 def process(f, df):
-    '''Calculates the time it takes to commpute a statistic
+    '''Calculates the time it takes to compute a statistics
     '''
     start_time = time.time()
     statToCompute = f(df)
